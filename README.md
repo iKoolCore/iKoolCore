@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iKoolCore
 - 👀 I’m interested in Hardware & OpenSource project.
 - 🌱 I’m currently making a hardware brand **[iKoolcore](https://ikoolcore.com)**
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Hardware & OpenSource Project.
 - 📫 How to reach me: ***ikoolcore@gmail.com***
 
 <!---
